@@ -1,0 +1,13 @@
+E:\PROGRAMADOR UNIVERSITARIO 2DO AÑO\TALLER 1 2021\practicos\tp5taller\tp5taller\tp5taller\bin\Debug\netcoreapp3.1\tp5taller.exe
+E:\PROGRAMADOR UNIVERSITARIO 2DO AÑO\TALLER 1 2021\practicos\tp5taller\tp5taller\tp5taller\bin\Debug\netcoreapp3.1\tp5taller.deps.json
+E:\PROGRAMADOR UNIVERSITARIO 2DO AÑO\TALLER 1 2021\practicos\tp5taller\tp5taller\tp5taller\bin\Debug\netcoreapp3.1\tp5taller.runtimeconfig.json
+E:\PROGRAMADOR UNIVERSITARIO 2DO AÑO\TALLER 1 2021\practicos\tp5taller\tp5taller\tp5taller\bin\Debug\netcoreapp3.1\tp5taller.runtimeconfig.dev.json
+E:\PROGRAMADOR UNIVERSITARIO 2DO AÑO\TALLER 1 2021\practicos\tp5taller\tp5taller\tp5taller\bin\Debug\netcoreapp3.1\tp5taller.dll
+E:\PROGRAMADOR UNIVERSITARIO 2DO AÑO\TALLER 1 2021\practicos\tp5taller\tp5taller\tp5taller\bin\Debug\netcoreapp3.1\tp5taller.pdb
+E:\PROGRAMADOR UNIVERSITARIO 2DO AÑO\TALLER 1 2021\practicos\tp5taller\tp5taller\tp5taller\obj\Debug\netcoreapp3.1\tp5taller.csprojAssemblyReference.cache
+E:\PROGRAMADOR UNIVERSITARIO 2DO AÑO\TALLER 1 2021\practicos\tp5taller\tp5taller\tp5taller\obj\Debug\netcoreapp3.1\tp5taller.AssemblyInfoInputs.cache
+E:\PROGRAMADOR UNIVERSITARIO 2DO AÑO\TALLER 1 2021\practicos\tp5taller\tp5taller\tp5taller\obj\Debug\netcoreapp3.1\tp5taller.AssemblyInfo.cs
+E:\PROGRAMADOR UNIVERSITARIO 2DO AÑO\TALLER 1 2021\practicos\tp5taller\tp5taller\tp5taller\obj\Debug\netcoreapp3.1\tp5taller.csproj.CoreCompileInputs.cache
+E:\PROGRAMADOR UNIVERSITARIO 2DO AÑO\TALLER 1 2021\practicos\tp5taller\tp5taller\tp5taller\obj\Debug\netcoreapp3.1\tp5taller.dll
+E:\PROGRAMADOR UNIVERSITARIO 2DO AÑO\TALLER 1 2021\practicos\tp5taller\tp5taller\tp5taller\obj\Debug\netcoreapp3.1\tp5taller.pdb
+E:\PROGRAMADOR UNIVERSITARIO 2DO AÑO\TALLER 1 2021\practicos\tp5taller\tp5taller\tp5taller\obj\Debug\netcoreapp3.1\tp5taller.genruntimeconfig.cache
